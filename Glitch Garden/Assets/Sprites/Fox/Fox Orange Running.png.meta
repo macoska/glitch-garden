@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: 8c3e132f743c94efebe24a25868de41f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8849493650544006345
+    second: npc_fox_fox_orangeFox_x1_run_png_1354839587_0
+  - first:
+      213: -8567764780429449972
+    second: npc_fox_fox_orangeFox_x1_run_png_1354839587_1
+  - first:
+      213: -5637587018992415149
+    second: npc_fox_fox_orangeFox_x1_run_png_1354839587_2
+  - first:
+      213: -6355327605382334164
+    second: npc_fox_fox_orangeFox_x1_run_png_1354839587_3
+  - first:
+      213: 5243278257957614616
+    second: npc_fox_fox_orangeFox_x1_run_png_1354839587_4
+  - first:
+      213: -3063423037862460966
+    second: npc_fox_fox_orangeFox_x1_run_png_1354839587_5
+  - first:
+      213: -4331528809330703519
+    second: npc_fox_fox_orangeFox_x1_run_png_1354839587_6
+  - first:
+      213: -4041264319406950549
+    second: npc_fox_fox_orangeFox_x1_run_png_1354839587_7
+  - first:
+      213: 4539714465126721684
+    second: npc_fox_fox_orangeFox_x1_run_png_1354839587_8
+  - first:
+      213: -6159300115980324176
+    second: npc_fox_fox_orangeFox_x1_run_png_1354839587_9
+  - first:
+      213: -3495166169344346822
+    second: npc_fox_fox_orangeFox_x1_run_png_1354839587_10
+  - first:
+      213: 8397440511607509106
+    second: npc_fox_fox_orangeFox_x1_run_png_1354839587_11
+  - first:
+      213: -2928111360872873415
+    second: Fox Orange Running_0
+  - first:
+      213: 2305512281168417401
+    second: Fox Orange Running_1
+  - first:
+      213: -1475025836909864007
+    second: Fox Orange Running_2
+  - first:
+      213: 896585254860782253
+    second: Fox Orange Running_3
+  - first:
+      213: -1232607526625861955
+    second: Fox Orange Running_4
+  - first:
+      213: 7929357036225314050
+    second: Fox Orange Running_5
+  - first:
+      213: 1012206457408187117
+    second: Fox Orange Running_6
+  - first:
+      213: 4231840947066107156
+    second: Fox Orange Running_7
+  - first:
+      213: -2163874366547274708
+    second: Fox Orange Running_8
+  - first:
+      213: -7504581266773463537
+    second: Fox Orange Running_9
+  - first:
+      213: 61259364995501965
+    second: Fox Orange Running_10
+  - first:
+      213: 6327610618390514877
+    second: Fox Orange Running_11
+  - first:
+      213: -489805151309665549
+    second: Fox Orange Running_12
+  - first:
+      213: 4768274608534929467
+    second: Fox Orange Running_13
+  - first:
+      213: 4059949352512711109
+    second: Fox Orange Running_14
+  - first:
+      213: -4302521846710043529
+    second: Fox Orange Running_15
+  - first:
+      213: -8561892339192977237
+    second: Fox Orange Running_16
+  - first:
+      213: 2997978416997829565
+    second: Fox Orange Running_17
+  - first:
+      213: 4704603629408230674
+    second: Fox Orange Running_0
+  - first:
+      213: 7809561520726450684
+    second: Fox Orange Running_1
+  - first:
+      213: 6682492795875295671
+    second: Fox Orange Running_2
+  - first:
+      213: 399206525024576448
+    second: Fox Orange Running_3
+  - first:
+      213: -61256016137362266
+    second: Fox Orange Running_4
+  - first:
+      213: -3662272867358570216
+    second: Fox Orange Running_5
+  - first:
+      213: 111939199173484752
+    second: Fox Orange Running_6
+  - first:
+      213: -2277095052043562308
+    second: Fox Orange Running_7
+  - first:
+      213: -4112144546299767821
+    second: Fox Orange Running_8
+  - first:
+      213: -5768330414772224020
+    second: Fox Orange Running_9
+  - first:
+      213: 6465911936296217222
+    second: Fox Orange Running_10
+  - first:
+      213: -7953735063329517653
+    second: Fox Orange Running_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fox Orange Running_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d14eb231c1a4140800000000000000
+      internalID: 4704603629408230674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Orange Running_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a57683d2216c60800000000000000
+      internalID: 7809561520726450684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Orange Running_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b10140eacbfcbc50800000000000000
+      internalID: 6682492795875295671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Orange Running_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3ab1c28344a8500800000000000000
+      internalID: 399206525024576448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Orange Running_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e6c55aff562ff0800000000000000
+      internalID: -61256016137362266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Orange Running_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8198a8e0b3efc2dc0800000000000000
+      internalID: -3662272867358570216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Orange Running_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d06d2bcb10bd8100800000000000000
+      internalID: 111939199173484752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Orange Running_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2d42f5d122660e0800000000000000
+      internalID: -2277095052043562308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Orange Running_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31ebc725abee6c0800000000000000
+      internalID: -4112144546299767821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Orange Running_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef7b68bc06c2ffa0800000000000000
+      internalID: -5768330414772224020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Orange Running_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ae4efe5a88bb950800000000000000
+      internalID: 6465911936296217222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Orange Running_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafcca0c918ae9190800000000000000
+      internalID: -7953735063329517653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
